@@ -1,6 +1,7 @@
 {
   "title": "Tactics Simulator",
   "subtitle": "HTW Berlin Court · half court · offense & defense",
+  "credit": "Developed & directed by Ugur Ersoz",
   "move": "✋ Move",
   "pass": "⇢ Pass",
   "run": "→ Cut",

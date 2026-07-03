@@ -1,6 +1,7 @@
 {
   "title": "Taktik-Simulator",
   "subtitle": "HTW Berlin Court · Halbfeld · Offensive & Defensive",
+  "credit": "Entwickelt & geleitet von Ugur Ersoz",
   "move": "✋ Bewegen",
   "pass": "⇢ Pass",
   "run": "→ Schnitt",

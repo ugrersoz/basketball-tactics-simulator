@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "HTW Berlin Basketball Tactics Simulator — draw plays, animate sets, and build your own formations.",
+  "author": "Ugur Ersoz",
   "type": "module",
   "scripts": {
     "dev": "vite",
