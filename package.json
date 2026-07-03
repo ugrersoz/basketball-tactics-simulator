@@ -4,6 +4,11 @@
   "version": "1.0.0",
   "description": "HTW Berlin Basketball Tactics Simulator — draw plays, animate sets, and build your own formations.",
   "author": "Ugur Ersoz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ugrersoz/basketball-tactics-simulator.git"
+  },
+  "homepage": "https://basketball-tactics-simulator.vercel.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
