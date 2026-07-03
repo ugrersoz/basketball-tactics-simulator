@@ -1,3 +1,5 @@
+<img src="public/basketball.svg" alt="Basketball Tactics Simulator icon" width="48" height="48">
+
 # Basketball Tactics Simulator
 
 HTW Berlin basketball tactics simulator. Draw plays, animate sets, and build custom formations on a half-court.
