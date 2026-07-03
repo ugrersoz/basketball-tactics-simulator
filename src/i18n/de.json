@@ -1,0 +1,75 @@
+{
+  "title": "Taktik-Simulator",
+  "subtitle": "HTW Berlin Court · Halbfeld · Offensive & Defensive",
+  "move": "✋ Bewegen",
+  "pass": "⇢ Pass",
+  "run": "→ Schnitt",
+  "dribble": "∿ Dribbling",
+  "screen": "⊤ Block",
+  "erase": "⌫ Löschen",
+  "clear": "Leeren",
+  "zones": "◐ Zonen",
+  "roles": "◉ Rollen",
+  "viewBoth": "Beide",
+  "viewA": "Nur Offensive",
+  "viewB": "Nur Defensive",
+  "playBtn": "▶ Abspielen",
+  "stop": "■ Stopp",
+  "selectPlay": "Spielzug wählen…",
+  "baseFormation": "Grundaufstellung.",
+  "hint": "Wähle einen Spielzug und drücke ▶ Abspielen. Oder baue mit ✋ Bewegen dein eigenes Set und zeichne Pfeile.",
+  "afterSelect": "▶ Abspielen zum Ansehen, oder Schritt für Schritt mit ◀ ▶.",
+  "offense": "Offensive",
+  "defense": "Defensive",
+  "ball": "Ball",
+  "legendArrows": "Schnitt · Pass · Dribbling · Block",
+  "zone3": "3ER",
+  "zoneMid": "MITTELDISTANZ",
+  "zonePaint": "ZONE",
+  "roleD": "Penetrierer",
+  "role3": "3er-Schütze",
+  "roleM": "Mitteldistanz",
+  "roleP": "Post-Spieler",
+  "plays": {
+    "pickAndRoll": {
+      "step1": "5 (Post) stellt einen hohen Block für 1.",
+      "step2": "1 dribbelt über den Block Richtung Korb; die Verteidigung hängt fest.",
+      "step3": "5 rollt zum Korb; 1 spielt den Pocket-Pass.",
+      "step4": "5 schließt direkt am Korb ab (Zone)."
+    },
+    "driveAndKick": {
+      "step1": "1 (Penetrierer) zieht mit Dribbling in die Zone.",
+      "step2": "Die Verteidigung kollabiert zur Zone; die Ecke wird frei.",
+      "step3": "Kick-out-Pass zu 2, dem 3er-Schützen in der Ecke.",
+      "step4": "2 nimmt den offenen Dreier."
+    },
+    "giveAndGo": {
+      "step1": "1 passt zu 3 auf den Flügel.",
+      "step2": "1 schneidet hinter dem Verteidiger zum Korb.",
+      "step3": "Rückpass; 1 schließt in der Zone ab."
+    },
+    "hornsSet": {
+      "step1": "Beide Bigs (4 & 5) gehen an die Ellbogen: Mitteldistanz-Positionen.",
+      "step2": "Die Flügel (2 & 3) ziehen in die 3er-Ecken.",
+      "step3": "1 dribbelt ins Set und wählt eine Seite."
+    },
+    "backdoorCut": {
+      "step1": "2 täuscht den Weg nach außen an; der Verteidiger folgt hoch.",
+      "step2": "2 schneidet backdoor zum Korb.",
+      "step3": "1 spielt den Backdoor-Pass; Korbleger."
+    },
+    "zone23": {
+      "step1": "Zwei Verteidiger oben, drei entlang der Grundlinie.",
+      "step2": "Der Ball wandert auf den Flügel; die Zone verschiebt sich.",
+      "step3": "Ball in der Ecke; der untere Verteidiger stellt raus, die Zone rotiert."
+    },
+    "zone131": {
+      "step1": "Druckaufstellung: 1 oben, 3 in der Mitte, 1 am Korb.",
+      "step2": "Ball auf den Flügel; oberer und Flügelverteidiger stellen eine Falle."
+    },
+    "manToMan": {
+      "step1": "Jeder Verteidiger nimmt seinen direkten Gegenspieler auf.",
+      "step2": "Ball auf dem Flügel; die Helpside sinkt Richtung Zone."
+    }
+  }
+}

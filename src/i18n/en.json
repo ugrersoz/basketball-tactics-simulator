@@ -1,0 +1,75 @@
+{
+  "title": "Tactics Simulator",
+  "subtitle": "HTW Berlin Court · half court · offense & defense",
+  "move": "✋ Move",
+  "pass": "⇢ Pass",
+  "run": "→ Cut",
+  "dribble": "∿ Dribble",
+  "screen": "⊤ Screen",
+  "erase": "⌫ Erase",
+  "clear": "Clear",
+  "zones": "◐ Zones",
+  "roles": "◉ Roles",
+  "viewBoth": "Both",
+  "viewA": "Offense only",
+  "viewB": "Defense only",
+  "playBtn": "▶ Play",
+  "stop": "■ Stop",
+  "selectPlay": "Select a play…",
+  "baseFormation": "Starting formation.",
+  "hint": "Pick a play and press ▶ Play. Or use ✋ Move to build your own set and draw arrows.",
+  "afterSelect": "Press ▶ Play to watch, or step through with ◀ ▶.",
+  "offense": "Offense",
+  "defense": "Defense",
+  "ball": "Ball",
+  "legendArrows": "cut · pass · dribble · screen",
+  "zone3": "3PT",
+  "zoneMid": "MID-RANGE",
+  "zonePaint": "PAINT",
+  "roleD": "Driver",
+  "role3": "3PT Shooter",
+  "roleM": "Mid-Range",
+  "roleP": "Post",
+  "plays": {
+    "pickAndRoll": {
+      "step1": "5 (Post) sets a high ball screen for 1.",
+      "step2": "1 dribbles off the screen toward the rim; defense gets caught.",
+      "step3": "5 rolls to the rim; 1 delivers the pocket pass.",
+      "step4": "5 finishes at the rim (paint)."
+    },
+    "driveAndKick": {
+      "step1": "1 (Driver) attacks the paint off the dribble.",
+      "step2": "Defense collapses to stop the drive; the corner opens up.",
+      "step3": "Kick-out pass to 2, the 3PT shooter in the corner.",
+      "step4": "2 takes the open three."
+    },
+    "giveAndGo": {
+      "step1": "1 passes to 3 on the wing.",
+      "step2": "1 cuts behind the defender toward the rim.",
+      "step3": "Return pass; 1 finishes in the paint."
+    },
+    "hornsSet": {
+      "step1": "Both bigs (4 & 5) lift to the elbows: mid-range spots.",
+      "step2": "Wings (2 & 3) space to the 3PT corners.",
+      "step3": "1 dribbles into the set and chooses a side."
+    },
+    "backdoorCut": {
+      "step1": "2 fakes stepping out; the defender follows high.",
+      "step2": "2 cuts backdoor to the rim.",
+      "step3": "1 delivers the backdoor pass; layup."
+    },
+    "zone23": {
+      "step1": "Two defenders up top, three across the baseline.",
+      "step2": "Ball swings to the wing; the zone shifts over.",
+      "step3": "Ball reaches the corner; bottom defender closes out, zone rotates."
+    },
+    "zone131": {
+      "step1": "Pressure setup: 1 up top, 3 across the middle, 1 at the rim.",
+      "step2": "Ball goes to the wing; top and wing defenders set a trap."
+    },
+    "manToMan": {
+      "step1": "Each defender locks onto their matchup.",
+      "step2": "Ball on the wing; help defense sinks toward the paint."
+    }
+  }
+}
