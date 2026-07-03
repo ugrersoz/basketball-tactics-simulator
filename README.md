@@ -3,7 +3,6 @@
 HTW Berlin basketball tactics simulator. Draw plays, animate sets, and build custom formations on a half-court.
 
 Live: https://basketball-tactics-simulator.vercel.app
-Repository: https://github.com/ugrersoz/basketball-tactics-simulator
 
 ## Background
 
